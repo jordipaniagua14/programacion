@@ -1,1 +1,1 @@
-# programacion
+# repositorio de practicas de programacion
